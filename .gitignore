@@ -1,0 +1,8 @@
+.DS_Store
+.claude/
+
+# Raw design source files (not needed for the live site)
+*.pdf
+Imagens/
+Atma Digital/
+Organizant/
