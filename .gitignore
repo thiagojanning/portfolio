@@ -3,6 +3,7 @@
 
 # Raw design source files (not needed for the live site)
 *.pdf
+!resume.pdf
 Imagens/
 Atma Digital/
 Organizant/
